@@ -1,6 +1,18 @@
-h2{
+.playerone {
   float:left;
 }
-h3{
+.playertwo {
   float:right;
+}
+#headertwo, #titletwo, #headerone, #titleone {
+  text-align: center;
+}
+/* .playerzone {
+  display: none;
+} */
+.buttons {
+  text-align: center;
+}
+#roll2, #hold2 {
+  display: none;
 }
