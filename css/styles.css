@@ -19,3 +19,10 @@
 .container{
   color:purple;
 }
+body{
+background-color: black;
+font-family: sans-serif;
+background-size: cover;
+text-align: center;
+background-size: 30px;
+}
